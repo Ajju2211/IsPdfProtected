@@ -1,4 +1,4 @@
-package pdfencryption
+package pdflock
 
 import (
 	"runtime"
